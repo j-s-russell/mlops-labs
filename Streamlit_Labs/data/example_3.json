@@ -1,0 +1,13 @@
+{
+    "input_test": {
+        "MedInc": 3.4801,
+        "HouseAge": 52.0,
+        "AveRooms": 3.977154724818276,
+        "AveBedrms": 1.185877466251298,
+        "Population": 1310.0,
+        "AveOccup": 1.3603322949117342,
+        "Latitude": 37.8,
+        "Longitude": -122.44,
+        "MedHouseVal": 5.00001
+    }
+}
