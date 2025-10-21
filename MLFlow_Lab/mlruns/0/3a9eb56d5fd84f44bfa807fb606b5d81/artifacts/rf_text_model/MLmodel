@@ -1,0 +1,21 @@
+artifact_path: rf_text_model
+flavors:
+  python_function:
+    cloudpickle_version: 3.0.0
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.12.2
+    streamable: false
+mlflow_version: 2.15.0
+model_size_bytes: 28232938
+model_uuid: 61e17e797fde46a9a3a7c52637cfb238
+run_id: 3a9eb56d5fd84f44bfa807fb606b5d81
+signature:
+  inputs: '[{"type": "string", "name": "text", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+utc_time_created: '2025-10-19 20:38:12.168792'

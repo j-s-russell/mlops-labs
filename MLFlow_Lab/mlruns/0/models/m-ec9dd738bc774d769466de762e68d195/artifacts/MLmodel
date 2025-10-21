@@ -1,0 +1,25 @@
+artifact_path: file:///Users/joerussell/Desktop/NORTHEASTERN/fall2025/mlops-labs/MLFlow_Lab/mlruns/0/models/m-ec9dd738bc774d769466de762e68d195/artifacts
+flavors:
+  python_function:
+    cloudpickle_version: 3.0.0
+    code: null
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.pyfunc.model
+    python_model: python_model.pkl
+    python_version: 3.12.2
+    streamable: false
+is_signature_from_type_hint: false
+mlflow_version: 3.5.0
+model_id: m-ec9dd738bc774d769466de762e68d195
+model_size_bytes: 23752099
+model_uuid: m-ec9dd738bc774d769466de762e68d195
+prompts: null
+run_id: 0b007a2becdc424d8dd9e56f5a81a456
+signature:
+  inputs: '[{"type": "string", "name": "text", "required": true}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-10-19 19:29:55.101540'

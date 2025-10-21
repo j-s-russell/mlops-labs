@@ -1,0 +1,10 @@
+artifact_location: file:///Users/joerussell/Desktop/NORTHEASTERN/fall2025/mlops-labs/MLFlow_Lab/mlruns/0/models/m-2f8629904f0f400c90b20299c6cd085b/artifacts
+creation_timestamp: 1760901315409
+experiment_id: '0'
+last_updated_timestamp: 1760901315469
+model_id: m-2f8629904f0f400c90b20299c6cd085b
+model_type: null
+name: rf_text_model
+source_run_id: 3383c78baebd477082ead13090af04a8
+status: 2
+status_message: null

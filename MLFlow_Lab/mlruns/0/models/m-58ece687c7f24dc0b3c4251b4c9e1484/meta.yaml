@@ -1,0 +1,10 @@
+artifact_location: file:///Users/joerussell/Desktop/NORTHEASTERN/fall2025/mlops-labs/MLFlow_Lab/mlruns/0/models/m-58ece687c7f24dc0b3c4251b4c9e1484/artifacts
+creation_timestamp: 1760897126423
+experiment_id: '0'
+last_updated_timestamp: 1760897128392
+model_id: m-58ece687c7f24dc0b3c4251b4c9e1484
+model_type: null
+name: random_forest_model
+source_run_id: 473e0f8f0b8b45f29327a097d3bf68ad
+status: 2
+status_message: null

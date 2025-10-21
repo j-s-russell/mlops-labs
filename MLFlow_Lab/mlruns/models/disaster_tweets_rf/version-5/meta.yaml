@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1760907363864
+current_stage: Production
+description: null
+last_updated_timestamp: 1760907378888
+name: disaster_tweets_rf
+run_id: 1ca6ef9d784e412eb1873486056513d7
+run_link: null
+source: file:///Users/joerussell/Desktop/NORTHEASTERN/fall2025/mlops-labs/MLFlow_Lab/mlruns/0/1ca6ef9d784e412eb1873486056513d7/artifacts/rf_text_model
+status: READY
+status_message: null
+storage_location: file:///Users/joerussell/Desktop/NORTHEASTERN/fall2025/mlops-labs/MLFlow_Lab/mlruns/0/1ca6ef9d784e412eb1873486056513d7/artifacts/rf_text_model
+user_id: null
+version: 5

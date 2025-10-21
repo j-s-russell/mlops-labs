@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/joerussell/Desktop/NORTHEASTERN/fall2025/mlops-labs/MLFlow_Lab/mlruns/0/3383c78baebd477082ead13090af04a8/artifacts
+end_time: 1760901315477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3383c78baebd477082ead13090af04a8
+run_name: baseline_rf_disaster_tweets_with_vectorizer
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760901314663
+status: 3
+tags: []
+user_id: joerussell
